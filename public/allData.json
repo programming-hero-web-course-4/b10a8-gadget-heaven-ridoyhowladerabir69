@@ -1,0 +1,354 @@
+[
+    {
+      "product_id": 1,
+      "title": "Gaming Laptop Pro 15",
+      "img": "https://i.ibb.co.com/RgFqqmL/download.jpg",
+      "category": "Laptop",
+      "price": 1499,
+      "description": "High-performance gaming laptop with RTX 3060 GPU.",
+      "specification": [
+        "Processor: Intel i7 11th Gen",
+        "RAM: 16GB DDR4",
+        "GPU: NVIDIA RTX 3060",
+        "Storage: 512GB NVMe SSD"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 2,
+      "title": "Android Smartphone X12",
+      "img": "https://i.ibb.co.com/LdftQQK/download.jpg",
+      "category": "Phone",
+      "price": 699,
+      "description": "Android smartphone with sleek design and fast performance.",
+      "specification": [
+        "Display: 6.5-inch AMOLED, 120Hz",
+        "Processor: Snapdragon 778G",
+        "Camera: 64MP Triple Lens",
+        "Battery: 4500mAh, 65W Fast Charging"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 3,
+      "title": "Wireless Gaming Mouse",
+      "img": "https://i.ibb.co.com/wyvnps1/download-1.jpg",
+      "category": "Accessories",
+      "price": 49,
+      "description": "Ergonomic wireless mouse with precision tracking.",
+      "specification": [
+        "Sensor: Optical, 16,000 DPI",
+        "Connectivity: Bluetooth 5.0",
+        "Battery Life: Up to 70 hours",
+        "Weight: 85 grams"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "title": "Smart Watch 5 Pro",
+      "img": "https://i.ibb.co.com/HVrvwxV/images.jpg",
+      "category": "Smart Watch",
+      "price": 299,
+      "description": "Premium smartwatch with advanced health tracking features.",
+      "specification": [
+        "Display: 1.4-inch AMOLED",
+        "Battery: 14 Days",
+        "Water Resistance: IP68",
+        "Features: GPS, Heart Rate Monitor"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 5,
+      "title": "MacBook Pro 16 M2",
+      "img": "https://i.ibb.co.com/vccsv7N/images-1.jpg",
+      "category": "MacBook",
+      "price": 2499,
+      "description": "Apple MacBook Pro with stunning Liquid Retina display.",
+      "specification": [
+        "Processor: Apple M2 Chip",
+        "RAM: 16GB Unified Memory",
+        "Storage: 1TB SSD",
+        "Display: 16-inch Liquid Retina XDR"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 6,
+      "title": "iPhone 14 Pro Max",
+      "img": "https://i.ibb.co.com/58Tz9C9/i-Phone-14-Pro-Deep-Purple-7300.jpg",
+      "category": "Iphone",
+      "price": 1199,
+      "description": "Apple's flagship iPhone with Dynamic Island feature.",
+      "specification": [
+        "Processor: A16 Bionic Chip",
+        "Camera: 48MP Triple Lens",
+        "Display: 6.7-inch Super Retina XDR",
+        "5G: Supported"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 7,
+      "title": "MacBook Air M1",
+      "img": "https://i.ibb.co.com/gT3MJ8W/feo-PSQYKh5-R8v-AJHQi-KNni-1200-80.jpg",
+      "category": "MacBook",
+      "price": 999,
+      "description": "Lightweight laptop with Apple M1 chip for performance and efficiency.",
+      "specification": [
+        "Processor: Apple M1",
+        "RAM: 8GB Unified Memory",
+        "Storage: 256GB SSD",
+        "Display: 13.3-inch Retina"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 8,
+      "title": "iPhone 13 Mini",
+      "img": "https://i.ibb.co.com/x5D6qT1/841457079.jpg",
+      "category": "Iphone",
+      "price": 699,
+      "description": "Compact yet powerful iPhone with A15 Bionic chip.",
+      "specification": [
+        "Processor: A15 Bionic",
+        "Camera: Dual 12MP Lens",
+        "Display: 5.4-inch Super Retina OLED",
+        "5G: Supported"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "title": "Smart Fitness Band 2",
+      "img": "https://i.ibb.co.com/h2g4bPV/Realme-Band-2-1.jpg",
+      "category": "Smart Watch",
+      "price": 89,
+      "description": "Budget-friendly fitness band with health tracking.",
+      "specification": [
+        "Display: 1.1-inch OLED",
+        "Battery: 10 Days",
+        "Water Resistance: IP67",
+        "Features: Sleep and Activity Tracking"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 10,
+      "title": "Ultra Slim Laptop",
+      "img": "https://i.ibb.co.com/qnj5XxW/images.jpg",
+      "category": "Laptop",
+      "price": 1099,
+      "description": "Ultra-slim laptop for professionals on the go.",
+      "specification": [
+        "Processor: Intel i5 12th Gen",
+        "RAM: 8GB DDR4",
+        "Storage: 512GB SSD",
+        "Display: 14-inch Full HD"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 11,
+      "title": "Phone Tripod Stand",
+      "img": "https://i.ibb.co.com/988sNb8/612-YE4ys-IS-AC-SL1500.jpg",
+      "category": "Accessories",
+      "price": 19,
+      "description": "Portable tripod stand for phones and cameras.",
+      "specification": [
+        "Material: Aluminum",
+        "Height: Adjustable up to 50 inches",
+        "Compatibility: Universal Phone Holder"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 12,
+      "title": "iPhone 12",
+      "img": "https://i.ibb.co.com/Cvmw8yY/Silver-7923-2505.jpg",
+      "category": "Iphone",
+      "price": 599,
+      "description": "A powerful iPhone with Super Retina display.",
+      "specification": [
+        "Processor: A14 Bionic",
+        "Camera: Dual 12MP",
+        "Display: 6.1-inch OLED",
+        "5G: Supported"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+        "product_id": 13,
+        "title": "4K Ultra HD Webcam",
+        "img": "https://i.ibb.co.com/gSs7npP/3dd582e85afc658f359e17ca82ef664f44e0fc3a-AMDIS08-B-V1-product-01-high-1.jpg",
+        "category": "Accessories",
+        "price": 99,
+        "description": "High-resolution 4K webcam for professional video calls and streaming.",
+        "specification": [
+          "Resolution: 4K Ultra HD",
+          "Field of View: 90 degrees",
+          "Connectivity: USB-C",
+          "Features: Built-in Noise-Cancelling Microphone"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 14,
+        "title": "Noise-Cancelling Headphones",
+        "img": "https://i.ibb.co.com/xqGPKLW/images-1.jpg",
+        "category": "Accessories",
+        "price": 199,
+        "description": "Over-ear headphones with active noise cancellation.",
+        "specification": [
+          "Battery Life: 30 hours",
+          "Connectivity: Bluetooth 5.0",
+          "Sound Quality: Hi-Res Audio Certified",
+          "Weight: 250 grams"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 15,
+        "title": "Smart Watch Ultra",
+        "img": "https://i.ibb.co.com/1dmgGFc/fd1a0342475aacf1f233b7c896c82e9c-jpg-720x720q80.jpg",
+        "category": "Smart Watch",
+        "price": 399,
+        "description": "Flagship smartwatch with rugged design and advanced features.",
+        "specification": [
+          "Battery Life: 36 Hours",
+          "Display: 2-inch AMOLED",
+          "Features: Fall Detection, ECG, GPS",
+          "Water Resistance: 100m"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 16,
+        "title": "Business Laptop Elite",
+        "img": "https://i.ibb.co.com/WDVdkxn/hp-a29xsut-aba-14-elite-x360-1040-1715901344-1828264.jpg",
+        "category": "Laptop",
+        "price": 1399,
+        "description": "Premium laptop designed for business professionals.",
+        "specification": [
+          "Processor: Intel i7 12th Gen",
+          "RAM: 16GB DDR5",
+          "Storage: 1TB SSD",
+          "Display: 15.6-inch Full HD"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 17,
+        "title": "Wireless Keyboard & Mouse Combo",
+        "img": "https://i.ibb.co.com/pnGYcSz/images-2.jpg",
+        "category": "Accessories",
+        "price": 49,
+        "description": "Compact and stylish wireless keyboard and mouse combo.",
+        "specification": [
+          "Keyboard Layout: Full Size",
+          "Connectivity: Bluetooth & USB",
+          "Battery Life: 12 Months",
+          "Compatibility: Windows, Mac"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 18,
+        "title": "iPhone 12 Pro Max",
+        "img": "https://i.ibb.co.com/RCFrvPt/all-colors-1.jpg",
+        "category": "Iphone",
+        "price": 999,
+        "description": "Feature-packed iPhone with larger display and Pro features.",
+        "specification": [
+          "Processor: A14 Bionic",
+          "Camera: 12MP Triple Lens",
+          "Display: 6.7-inch Super Retina XDR",
+          "5G: Supported"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 19,
+        "title": "Portable External SSD",
+        "img": "https://i.ibb.co.com/hXDp7QK/81kx0-AOQ-AL-AC-SL1500.jpg",
+        "category": "Accessories",
+        "price": 129,
+        "description": "Compact external SSD with high-speed data transfer.",
+        "specification": [
+          "Capacity: 1TB",
+          "Speed: Up to 1050MB/s",
+          "Connectivity: USB-C",
+          "Weight: 50 grams"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 20,
+        "title": "MacBook Pro 14 M2 Max",
+        "img": "https://i.ibb.co.com/X2Zpwz8/3715-33244-1585.jpg",
+        "category": "MacBook",
+        "price": 2999,
+        "description": "Ultimate MacBook for professionals with extreme performance.",
+        "specification": [
+          "Processor: Apple M2 Max",
+          "RAM: 32GB Unified Memory",
+          "Storage: 1TB SSD",
+          "Display: 14-inch Liquid Retina XDR"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 21,
+        "title": "Foldable Smartphone Z",
+        "img": "https://i.ibb.co.com/PDwxnCX/galaxy-z-fold5-highlights-kv-a.jpg",
+        "category": "Phone",
+        "price": 1899,
+        "description": "Futuristic foldable smartphone with dual AMOLED displays.",
+        "specification": [
+          "Processor: Snapdragon 8 Gen 2",
+          "Display: 7.6-inch Foldable AMOLED",
+          "Camera: 50MP Triple Lens",
+          "Battery: 4400mAh"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 22,
+        "title": "Gaming Chair Deluxe",
+        "img": "https://i.ibb.co.com/18MXSxv/51-Mf-Nj49-RL-AC-SL6000.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Ergonomic gaming chair with adjustable features and RGB lighting.",
+        "specification": [
+          "Material: PU Leather",
+          "Weight Capacity: 300lbs",
+          "Features: Adjustable Lumbar Support, Recline 180°",
+          "Lighting: RGB Accents"
+        ],
+        "availability": true,
+        "rating": 4.7
+      }
+  ]
+  
